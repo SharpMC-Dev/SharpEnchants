@@ -1,0 +1,7 @@
+main: org.sharpmc.runes.plugin.RunePlugin
+version: 1.0
+name: SharpMCRunes
+api-version: 1.19
+
+authors: [ Vertmix, cjcameron92 ]
+depend: [ helper, Vault ]
